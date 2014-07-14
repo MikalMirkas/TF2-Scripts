@@ -1,4 +1,5 @@
-Team-Fortress-2-Scripts
+MikalMirkas' TF2 Scripts
 =======================
+By MikalMirkas.
 
-MikalMirkas' Team Fortress 2 Scripts
+Last Updated: 07/14/2014
