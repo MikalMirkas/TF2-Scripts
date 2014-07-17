@@ -2,9 +2,9 @@ MikalMirkas' TF2 Scripts
 =======================
 #####By MikalMirkas.
 
-[MikalMirkas.ca](www.MikalMirkas.ca)
+(www.MikalMirkas.ca
 
-[@MikalMirkas](www.twitter.com/user/MikalMirkas)
+https://twitter.com/MikalMirkas
 
 ---
 
